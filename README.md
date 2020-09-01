@@ -1,6 +1,7 @@
 # greet_flask
 
 to run this application, int your terminal do the following: <br />
+  -download the file and cd to that folder
   -export FLASK_APP=application.py<br />
   -flask run<br />
   
